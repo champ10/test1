@@ -1,1 +1,62 @@
-hello world
+Hi Pradnya,
+As per conversation with you we will be providing our skills details and our expectations.
+
+Skills Details:
+Image Processing and Computer Vision
+	Shape/ color detection, 
+Object detection, 
+Microscopic image processing (Blood image, Tumor segmentation)
+Leaf disease detection
+Optical Character Recognition (OCR), 
+Sign language Gesture recognition using stereo camera + hardware
+	Thermal Image Processing
+
+Artificial Intelligence
+Advanced Driver Assistance system (ADAS)
+Localization of Autonomous Rover (Robot)
+
+Machine Learning 
+	Automatic rating  system using Collaborative learning 
+	Deep learning with Convolution Neural Network 
+
+Data Analytics
+	Data classification for data like multimedia, text, time-series, network, discrete sequence etc
+	Data clustering
+Optimization
+
+Embedded Electronics and Hardware
+	Smart Camera
+	Porting algorithms on hardware
+	Wireless sensor networks (RF, Bluetooth)
+Industrial Automation
+	
+
+We are expecting the venture center to provide help in following area
+1.	Problem definitions from other parties that can be solved with our skills
+2.	Organization contacts who need solutions using mentioned technologies
+3.	Detail information of BIG 
+
+Team Details
+Dr. Pradeep Bilurkar
+PhD, Physics, 20+ years industrial experience in Project Management, Data Analytics and Machine learning
+Resident - Pune
+Pradeep.bilurkar@gmail.com
+
+
+Manoj Chougule
+MTech, Electronics, 9+ years industrial experience in Embedded and Hardware
+Resident - Pune
+deskelctronics@gmail.com
+
+Chetan Paulzagade
+BE, Electronics, 8+ years industrial experience in Image Processing , Machine Learning, Data Analytics and programing
+Resident - Pune
+Chetanetrx2005@gmail.com
+
+
+Raviraj Kanade
+MTech, Electronics, 4+ years industrial experience in Image Processing and Programing
+Resident - Pune
+Ravirajkanade24@gmail.com
+
+Please let me know if you need any further information.
